@@ -1,2 +1,2 @@
-
-erroe.log
+*.log
+/dir/
